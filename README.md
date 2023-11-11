@@ -38,7 +38,7 @@ The atelier app project aims to combine the best features of various existing at
 <img src="https://github.com/urfavcrow23/AtelierApp/blob/main/Images/tr669qcLKR.gif?raw=true" width= 100% height=2px>
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
-<img src="https://github.com/urfavcrow23/Connectify/blob/main/Images/Slice%201.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/AtelierApp/blob/main/Images/Mockup.png?raw=true" width="100%">
 
  <img src="https://github.com/urfavcrow23/AtelierApp/blob/main/Images/tr669qcLKR.gif?raw=true" width= 100% height=2px>
 
