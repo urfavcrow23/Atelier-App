@@ -43,7 +43,7 @@ The atelier app project aims to combine the best features of various existing at
  <img src="https://github.com/urfavcrow23/AtelierApp/blob/main/Images/tr669qcLKR.gif?raw=true" width= 100% height=2px>
 
  <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/monophy.gif?raw=true" width="25">  Project Link </h2>
-  <h4><i> You can see the entire application from the prototype by clicking on the following link --> 
+  <h4><i> You can download the application from google play by clicking on the following link --> 
     <a href="https://www.figma.com/proto/vxYJPpgRiS5wKiRuI7UA1E/Atelier?page-id=0%3A1&type=design&node-id=1-177&viewport=661%2C-1644%2C0.13&t=BrVi0ffqwkDSuj3B-1&scaling=scale-down&starting-point-node-id=36%3A280&mode=design" target="_blank">Here</a>
  </i></h4>
 
